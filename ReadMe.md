@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on — AI Agents & Web Projects<br>I’m looking to collaborate on — AI & Open Source Projects<br>I’m currently learning — AI, Python & Advanced Web Development<br>Ask me about — AI, Web Development & Programming<br>Fun fact — I’m building my own AI assistant
+ working on — AI Agents & Web 
+I’m looking to collaborate on — AI & Open Source Projects<br>I’m currently learning — AI, Python & Advanced Web Development<br>Ask me about — AI, Web Development & Programming<br>
 
 
 ## 🌐 Socials:
